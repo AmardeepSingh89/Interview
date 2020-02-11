@@ -1,0 +1,3 @@
+/Users/acesingh/Projects/Interview/Interview/obj/Debug/netcoreapp3.1/Interview.csprojAssemblyReference.cache
+/Users/acesingh/Projects/Interview/Interview/obj/Debug/netcoreapp3.1/Interview.AssemblyInfoInputs.cache
+/Users/acesingh/Projects/Interview/Interview/obj/Debug/netcoreapp3.1/Interview.AssemblyInfo.cs

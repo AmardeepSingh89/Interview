@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{67D6C6C8-5793-4138-B75B-9142F1B92DD2}|Default">
+  <MonoDevelop.Ide.ItemProperties.Interview.Test FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Interview.Test/InterviewTest.cs">
+    <Files>
+      <File FileName="Interview.Test/UnitTest1.cs" Line="59" Column="10" />
+      <File FileName="Interview.Test/Employee.cs" Line="4" Column="44" />
+      <File FileName="Interview/Respository.cs" Line="33" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Interview" expanded="True">
+            <Node name="Interview" expanded="True" />
+            <Node name="Interview.Test" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="InterviewTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Interview PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
